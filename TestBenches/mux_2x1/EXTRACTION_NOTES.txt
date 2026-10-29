@@ -1,0 +1,30 @@
+MUX 2x1 SYSTEMVERILOG SCREENSHOT EXTRACTION
+================================================
+
+This archive contains the code that was visibly shown in the supplied screenshots.
+
+Extracted files:
+- transaction.sv
+- generator.sv
+- driver.sv
+- ip_monitor.sv
+- op_monitor.sv
+- scoreboard.sv
+- mux_2x1_environment.sv
+- mux_2x1_program_block.sv
+- mux_2x1_dut.sv
+- run.do
+
+Accuracy notes:
+- The three environment screenshots were merged into one complete
+  mux_2x1_environment.sv file.
+- Original identifiers, capitalization, display messages, spellings, and code
+  structure were preserved as displayed.
+- The following files appeared only as GVim tabs; their source content was not
+  visible in the supplied screenshots, so no unseen code was invented:
+  interface.sv
+  mux_2x1_test.sv
+  mux_2x1_top_module.sv
+- output.log also appeared as a tab, but its content was not shown.
+
+The extracted source files use Windows-compatible CRLF line endings.

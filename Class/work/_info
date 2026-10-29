@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/Desktop/VERILOG_PRACTICE/System Verilog/Class
+T_opt
+!s110 1787231285
+Vj4ZVF:gVU=OHSj;DUfRG[3
+04 15 4 work smapleC_sv_unit fast 0
+04 19 4 work even_odd_constraint fast 0
+=1-b4b686d09917-6a86fc34-227-5a04
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1787917938
+V:beo^jhzO_;2:O2beml3Q1
+04 13 4 work testA_sv_unit fast 0
+04 9 4 work testClass fast 0
+=1-b4b686d09917-6a917671-16c-a6c
+R1
+R2
+n@_opt1
+R3
+R0
+veven_odd_constraint
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+DXx4 work 15 smapleC_sv_unit 0 22 hP]SURKRF_Xln<ZG_VmbP1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 n3CcoF;]DVhBOldNXz`nT3
+IJ^Zn3[MDICFId<LS31>Ul0
+!s105 smapleC_sv_unit
+S1
+R0
+Z6 w1787231265
+Z7 8smapleC.sv
+Z8 FsmapleC.sv
+L0 12
+Z9 OL;L;10.7c;67
+31
+Z10 !s108 1787231282.000000
+Z11 !s107 smapleC.sv|
+Z12 !s90 smapleC.sv|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+XsmapleC_sv_unit
+R4
+VhP]SURKRF_Xln<ZG_VmbP1
+r1
+!s85 0
+!i10b 1
+!s100 `NGmB2XRlkOYU[cm1Z_[23
+IhP]SURKRF_Xln<ZG_VmbP1
+!i103 1
+S1
+R0
+R6
+R7
+R8
+L0 1
+R9
+31
+R10
+R11
+R12
+!i113 0
+R13
+R2
+nsmaple@c_sv_unit
+XtestA_sv_unit
+R4
+VImE?e[^B0DTNSL@5]Ez>O0
+r1
+!s85 0
+!i10b 1
+!s100 <Mc2<Pa<dEIC]PIVHiVG`1
+IImE?e[^B0DTNSL@5]Ez>O0
+!i103 1
+S1
+R0
+Z14 w1787917916
+Z15 8testA.sv
+Z16 FtestA.sv
+L0 1
+R9
+31
+Z17 !s108 1787918111.000000
+!s107 testA.sv|
+Z18 !s90 testA.sv|
+!i113 0
+R13
+R2
+ntest@a_sv_unit
+vtestClass
+R4
+DXx4 work 13 testA_sv_unit 0 22 ImE?e[^B0DTNSL@5]Ez>O0
+R5
+r1
+!s85 0
+!i10b 1
+!s100 @`Z@@GQSfgm1NI59]0lzl2
+I[H[b9=hzWW0OhEkf73dXz2
+!s105 testA_sv_unit
+S1
+R0
+R14
+R15
+R16
+L0 10
+R9
+31
+R17
+Z19 !s107 testA.sv|
+R18
+!i113 0
+R13
+R2
+ntest@class

@@ -1,0 +1,108 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/Desktop/VERILOG_PRACTICE/System Verilog/String
+T_opt
+!s110 1785750572
+VG[7=cf12ii1:X`=4_:5oH2
+04 13 4 work string_method fast 0
+=1-b4b686d09917-6a70642c-2ba-3c80
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1785750609
+V>JzMPT>eT=TId4MmgmVD]3
+04 15 4 work string_operator fast 0
+=1-b4b686d09917-6a706450-337-6a0
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1785750728
+VkWnzRkjCL2b1CzUmmJJ`>3
+04 13 4 work swap_blocking fast 0
+=1-b4b686d09917-6a7064c8-d4-1c2c
+R1
+R2
+n@_opt2
+R3
+vstring_method
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1785750569
+!i10b 1
+!s100 GeQPK=Pc0foQnCP]cD?4V3
+IHZ:jG?BAn?6IY<5HV_Wj<3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+!s105 str_method_sv_unit
+S1
+R0
+w1785404001
+8str_method.sv
+Fstr_method.sv
+L0 1
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1785750569.000000
+!s107 str_method.sv|
+!s90 str_method.sv|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vstring_operator
+R4
+!s110 1785750605
+!i10b 1
+!s100 FLBjhHKJbPfB701e[o1oC3
+IUi:]6PTlI<WRBlG=]1iW12
+R5
+!s105 str_operator_sv_unit
+S1
+R0
+w1785403398
+8str_operator.sv
+Fstr_operator.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1785750605.000000
+!s107 str_operator.sv|
+!s90 str_operator.sv|
+!i113 0
+R7
+R2
+vswap_blocking
+!s110 1785750725
+!i10b 1
+!s100 4GY6Fnif43LHfA<bXmHYb1
+I0a<4f3R=G5f0>kl14J@_43
+R5
+R0
+w1784883389
+8swap.v
+Fswap.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1785750725.000000
+!s107 swap.v|
+!s90 swap.v|
+!i113 0
+R7
+R2

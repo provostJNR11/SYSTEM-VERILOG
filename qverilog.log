@@ -1,0 +1,6 @@
+Start time: 23:18:20 on Aug 11,2026
+qverilog pract.v 
+-- Compiling module c2bit
+** Error: (qverilog-13069) pract.v(7): near "=": syntax error, unexpected '=', expecting ++ or --.
+End time: 23:18:20 on Aug 11,2026, Elapsed time: 0:00:00
+Errors: 1, Warnings: 0
